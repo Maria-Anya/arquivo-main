@@ -1,4 +1,4 @@
-alert(MariV. e melina)
+alert('MariV. e melina')
 let areaQuadrado = parseint(prompt('adicione um numero'));
 
 function soma(numero1,numero2){
