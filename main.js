@@ -1,6 +1,6 @@
 alert('MariV. e melina')
 let areaQuadrado = parseInt(prompt('adicione um numero'));
-document.write areaQuadrado
+document.writeareaQuadrado
 
 function soma(numero1,numero2){
     return numero1+numero2;
