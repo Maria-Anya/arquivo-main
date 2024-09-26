@@ -7,3 +7,6 @@ function areaQuadrado(lado){
     return lado **2;
 }
 console.log(areaQuadrado (15));
+
+let areaQuadrado = parseint(prompt(adicione um numero));
+document.write(areaQuadrado)
